@@ -17,5 +17,14 @@ El año pasado en la OSHWDem, el reto estuvo relacionado con la teselación p2 y
 <https://github.com/Obijuan/3D-parts/wiki/Piezas-para-la-Teselaci%C3%B3n-de-Penrose-P2>  
 ![100hex_penrose](https://github.com/EnekoMontero/100hex_oshwdem/blob/master/100hex_penrose.jpg) 
 
+## 100hex_gear
+La idea de este hexágono era hacer algo más dinámico. Por desgracia aún no ha funcionado ya que los hexágonos se salen debido a que es muy finito.  
+Vídeo de "no" funcionamiento: <https://twitter.com/EnekoMontero/status/927538188951924736>
+![100hex_gear](https://github.com/EnekoMontero/100hex_oshwdem/blob/master/100hex_gear.jpg) 
+
+## 100hex_bdlogo
+Logo de [Bilbao Dynamics](http://bilbaodynamics.com/ "Bilbao Dynamics").
+![100hex_gear](https://github.com/EnekoMontero/100hex_oshwdem/blob/master/100hex_bdlogo.jpg) 
+
 ## Licencia
 Attribution - Share Alike - Creative Commons (<http://creativecommons.org/licenses/by-sa/3.0/>)
